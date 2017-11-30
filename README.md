@@ -12,4 +12,3 @@ a = b
 ### demo picture
 
 ![demo-pic](pics/test.jpg)
-![demo-pic](pics/武迪.jpg)
